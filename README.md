@@ -1,9 +1,9 @@
 
 ---
 
-# 🏛️ E-Government Feedbacks and Complaints Management System.
+# 🏛️ E-Government Feedbacks and Complaints Management System
 
-📢 A modern, user-centric platform that allows citizens to **submit feedbacks** and **lodge complaints** about government services in a transparent and accountable way. This system helps the government to track issues, respond efficiently, and improve public services.
+📢 A modern, user-centric platform that allows citizens to **submit feedback** and **lodge complaints** about government services in a transparent and accountable way. This system helps the government to track issues, respond efficiently, and improve public services.
 
 ---
 
@@ -30,12 +30,56 @@
 
 ---
 
+## 📚 Project Development Phases
+
+This system was developed through the following seven structured and successfully completed phases:
+
+### ✅ Phase I: Project Planning and Requirement Gathering
+
+* Defined system goals, use cases, and key stakeholders
+* Collected functional and non-functional requirements
+
+### ✅ Phase II: Conceptual Design
+
+* Designed the Entity-Relationship (ER) model
+* Identified core entities like `User`, `Feedback`, `Complaint`, `Response`, `Department`, and their relationships
+
+### ✅ Phase III: Logical Design
+
+* Converted the ER model into a normalized relational schema (3NF)
+* Designed tables, defined data types, primary and foreign keys
+
+### ✅ Phase IV: Physical Implementation
+
+* Implemented the schema using Oracle 19c
+* Created and tested all database tables with necessary constraints
+
+### ✅ Phase V: Data Manipulation and Advanced Queries
+
+* Developed and tested `INSERT`, `UPDATE`, `DELETE`, and `SELECT` queries
+* Created useful views and reports for system users
+
+### ✅ Phase VI: Application Programming and User Interaction
+
+* Built a Java-based interface (CLI/Web) with user login and role separation
+* Connected application logic to Oracle using PL/SQL procedures and functions
+
+### ✅ Phase VII: Advanced PL/SQL Programming and Auditing
+
+* Implemented triggers for:
+
+  * Logging data changes
+  * Enforcing data restrictions
+* Designed audit tables to track actions like deletions and updates
+
+---
+
 ## 🧑‍💻 Technologies Used
 
 | Component           | Technology                            |
 | ------------------- | ------------------------------------- |
-| 👨‍💻 Backend          | PL/SQL (Oracle), Triggers, Procedures |
-| 🗄️ Database          | Oracle 19c                            |
+| 👨‍💻 Backend       | PL/SQL (Oracle), Triggers, Procedures |
+| 🗄️ Database        | Oracle 19c                            |
 | 🌐 Interface        | Java (CLI-based or web UI)            |
 | 🔍 Logging & Audits | PL/SQL Triggers & Audit Tables        |
 
@@ -43,15 +87,15 @@
 
 ## 🛠️ Setup Instructions
 
-1.  **Set up the Oracle Database:**
+1. **Set up the Oracle Database:**
 
-   * Import SQL scripts from the `db/` directory.
-   * Run triggers, procedures, and constraints.
+* Import SQL scripts from the `db/` directory
+* Run triggers, procedures, and constraints
 
 2. **Run the application:**
 
-   * Use Java-based interface (CLI/Web).
-   * Login as **admin**, **official**, or **citizen**.
+   * Use the Java-based interface (CLI/Web)
+   * Login as **admin**, **official**, or **citizen**
 
 ---
 
@@ -59,7 +103,7 @@
 
 ```
 e-gov-feedbacks-complaints/
-├── db/                   # SQL scripts, triggers, procedures.
+├── db/                   # SQL scripts, triggers, procedures
 ├── docs/                 # Documentation and reports
 └── README.md             # Project readme
 ```
@@ -94,15 +138,16 @@ e-gov-feedbacks-complaints/
 
 ## 🤝 Contributors
 
-* 👨‍🎓 **Names: IRAKOZE Grace Vanny** – Developer & Database Designer
-* 📄 **ID: 26425**
-* 🏢 **PL/SQL programmers**
+* 👨‍🎓 **Name:** IRAKOZE Grace Vanny – Developer & Database Designer
+* 🆔 **ID:** 26425
+* 🏢 **Role:** PL/SQL Programmer
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -111,5 +156,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 Feel free to [open an issue](https://github.com/yourusername/e-gov-feedbacks-complaints/issues) or suggest improvements. Contributions are welcome!
 
 ---
-
-
