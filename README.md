@@ -1,9 +1,9 @@
 
 ---
 
-# 🏛️ E-Government Feedbacks and Complaints Management System
+# 🏛️ E-Government Feedbacks and Complaints Management System.
 
-📢 A modern, user-centric platform that allows citizens to **submit feedback** and **lodge complaints** about government services in a transparent and accountable way. This system helps the government track issues, respond efficiently, and improve public services.
+📢 A modern, user-centric platform that allows citizens to **submit feedbacks** and **lodge complaints** about government services in a transparent and accountable way. This system helps the government to track issues, respond efficiently, and improve public services.
 
 ---
 
@@ -34,8 +34,8 @@
 
 | Component           | Technology                            |
 | ------------------- | ------------------------------------- |
-| 👨‍💻 Backend       | PL/SQL (Oracle), Triggers, Procedures |
-| 🗄️ Database        | Oracle 19c                            |
+| 👨‍💻 Backend          | PL/SQL (Oracle), Triggers, Procedures |
+| 🗄️ Database          | Oracle 19c                            |
 | 🌐 Interface        | Java (CLI-based or web UI)            |
 | 🔍 Logging & Audits | PL/SQL Triggers & Audit Tables        |
 
@@ -66,8 +66,7 @@
 
 ```
 e-gov-feedbacks-complaints/
-├── db/                   # SQL scripts, triggers, procedures
-├── src/                  # Java interface (optional)
+├── db/                   # SQL scripts, triggers, procedures.
 ├── docs/                 # Documentation and reports
 └── README.md             # Project readme
 ```
@@ -102,8 +101,9 @@ e-gov-feedbacks-complaints/
 
 ## 🤝 Contributors
 
-* 👨‍🎓 **Your Name** – Developer & Database Designer
-* 🏢 **Your Institution** – *(optional)*
+* 👨‍🎓 **Names: IRAKOZE Grace Vanny** – Developer & Database Designer
+* 📄 **ID: 26425**
+* 🏢 **PL/SQL programmers**
 
 ---
 
