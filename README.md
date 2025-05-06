@@ -36,8 +36,10 @@ This system was developed through the following seven structured and successfull
 
 ### ✅ Phase I: Project Planning and Requirement Gathering
 
-* Defined system goals, use cases, and key stakeholders
-* Collected functional and non-functional requirements
+<img width="626" alt="001" src="https://github.com/user-attachments/assets/8d0bca5b-9279-4aa3-8746-0024e7d8dcf6" />
+<img width="629" alt="002" src="https://github.com/user-attachments/assets/52a43c01-6225-46fa-9468-962b91b09523" />
+<img width="626" alt="003" src="https://github.com/user-attachments/assets/b18c35f0-0b67-4313-9450-e57d155e6a91" />
+
 
 ### ✅ Phase II: Conceptual Design
 
