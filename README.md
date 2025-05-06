@@ -61,7 +61,7 @@ System Entities: Manage records, responses, and document attachments.
 A transparent, structured, and efficient feedback process that improves trust, speeds up resolutions, and supports data-driven decisions.
 
 ### ✅ Phase III: Logical Design
-
+![image](https://github.com/user-attachments/assets/ac459309-8d7b-44bf-9a20-13236c3f9e53)
 * Converted the ER model into a normalized relational schema (3NF)
 * Designed tables, defined data types, primary and foreign keys
 
