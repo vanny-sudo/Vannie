@@ -62,8 +62,19 @@ A transparent, structured, and efficient feedback process that improves trust, s
 
 ### ✅ Phase III: Logical Design
 ![image](https://github.com/user-attachments/assets/ac459309-8d7b-44bf-9a20-13236c3f9e53)
-* Converted the ER model into a normalized relational schema (3NF)
-* Designed tables, defined data types, primary and foreign keys
+* Details.
+  
+This Logical Model design of an E-Government Feedback & Complains Management System schema includes:
+
+1.	Citizens - Stores citizen information including ID, name, address, phone number, and national ID
+2.	Departments - Contains department information with ID, name, description, and contact details
+3.	Complaints_Feedbacks - Records citizen complaints with references to both citizens and departments
+4.	Responses - Tracks official responses to complaints
+5.	Attachments - Manages files attached to complaints
+   
+In additional there is Officials which is necessary for tracking who responded to complaints.
+The schema includes appropriate foreign key relationships to connect the tables, as well as indexes for better query performance. 
+
 
 ### ✅ Phase IV: Physical Implementation
 
