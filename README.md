@@ -43,19 +43,12 @@
 
 ## 🛠️ Setup Instructions
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/e-gov-feedbacks-complaints.git
-   cd e-gov-feedbacks-complaints
-   ```
-
-2. **Set up the Oracle Database:**
+1.  **Set up the Oracle Database:**
 
    * Import SQL scripts from the `db/` directory.
    * Run triggers, procedures, and constraints.
 
-3. **Run the application:**
+2. **Run the application:**
 
    * Use Java-based interface (CLI/Web).
    * Login as **admin**, **official**, or **citizen**.
