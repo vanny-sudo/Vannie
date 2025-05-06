@@ -42,9 +42,23 @@ This system was developed through the following seven structured and successfull
 
 
 ### ✅ Phase II: Conceptual Design
+![image](https://github.com/user-attachments/assets/6420ecad-2b31-46f9-8654-44d25a99fb71)
+📘 Business Process Modeling.
+This phase focuses on designing the core process of how citizens interact with the system and how government departments handle complaints.
 
-* Designed the Entity-Relationship (ER) model
-* Identified core entities like `User`, `Feedback`, `Complaint`, `Response`, `Department`, and their relationships
+🎯 Key Goals:
+Enable citizens to submit and track complaints digitally.
+Improve government response times and accountability.
+Use complaint data to enhance public service delivery.
+
+👥 Main Roles:
+Citizens: Submit and follow up on issues.
+Staff: Validate, assign, and resolve complaints.
+Departments: Handle specific issues and implement improvements.
+System Entities: Manage records, responses, and document attachments.
+
+📈 Outcome:
+A transparent, structured, and efficient feedback process that improves trust, speeds up resolutions, and supports data-driven decisions.
 
 ### ✅ Phase III: Logical Design
 
