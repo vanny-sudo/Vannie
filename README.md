@@ -34,10 +34,19 @@
 
 This system was developed through the following seven structured and successfully completed phases:
 
-### ✅ Phase I: Project Planning and Requirement Gathering
+### ✅ Phase I: Project Planning and Requirement Gathering.
+
+**Problem Statement:**
+Citizens lack an efficient channel to report government service issues, leading to unresolved concerns and reduced public trust in government responsiveness.
+  
+**Requirements:** This project will be a 5-7 month project which requires user account management, complaint submission/tracking, and admin oversight functionalities. Technical needs include a mobile-responsive application with secure authentication, while maintaining an intuitive interface with accessibility features and multi-language support.
+
+**Solutions:**
+* User-friendly digital platform for submitting feedback and complaints
+* Transparent tracking system for complaint status and resolution
+* Notification system to keep citizens updated on resolution progress.
 
 https://1drv.ms/p/c/1f79cabbe4beca38/Ea_bopKwzuRAvaJ-pZclZ0wBSIgUXAqsuSfim_10v-ijMg?e=k8gAwo
-
 ### ✅ Phase II: Conceptual Design
 ![image](https://github.com/user-attachments/assets/6420ecad-2b31-46f9-8654-44d25a99fb71)
 📘 Business Process Modeling.
